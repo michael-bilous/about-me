@@ -1,0 +1,29 @@
+---
+title:      "Homelab"
+subtitle:   "Big Brother no longer watches me"
+author:     "Michael B."
+avatar:     "img/authors/mbilous.png"
+image:      "img/homelab.jpg"
+date:       2025-06-28 00:00:04
+---
+
+### My cloud, my rules
+It started with a simple thought: I don’t trust anyone else’s server. Not because of paranoia—but because things break. Services go down. Providers change policies. Internet cuts out. And cloud platforms? Great for scale, not so great when you’re just tinkering and the bill still shows up. So I decided to host things myself. Not just because I could—because I wanted to rely on me, not “someone else’s uptime.”
+
+### From cabinet to datacenter (almost)
+At first, it was just an old device running some scripts. Then came the dedicated router. The mini PC. The UPS. A shelf turned into a server rack. One thing led to another—suddenly I was running Docker stacks, managing VLANs, and watching Grafana dashboards while my pasta cooked.
+
+Now? I’ve got a homegrown setup that does everything I need, and nothing I don’t.
+
+### Learning by building (and breaking)
+Homelabbing taught me more than any tutorial ever could. When something fails, you don’t file a ticket—you fix it. You read logs, tweak configs, restart services, isolate the issue. It's hands-on, frustrating, and insanely rewarding.
+
+You gain real skills. And confidence you can’t fake.
+
+### Why I love it
+Because I like knowing how things work. Because I want to experiment without asking permission. Because I don’t want my projects to disappear when someone else's free tier ends or when a company pivots.
+
+Homelabbing means freedom.
+Big Brother’s not watching.
+And more importantly?
+I’m not waiting for someone else to fix my stuff.

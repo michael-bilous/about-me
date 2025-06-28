@@ -1,0 +1,29 @@
+---
+title:      "DIY"
+subtitle:   "Turning my ideas into reality"
+author:     "Michael B."
+avatar:     "img/authors/mbilous.png"
+image:      "img/diy.jpg"
+date:       2025-06-28 00:00:03
+---
+
+### Build it yourself
+There’s something deeply satisfying about building things with your own hands. Whether it’s shelves, cables, a custom server rack, or just repurposing IKEA furniture into something smarter—DIY is where imagination meets action. It’s not just about saving money or solving a problem. It’s about making something your way.
+
+### From “what if” to “look what I made”
+I love tech. I love tools. And I love the feeling of making an idea real. You start with a rough sketch in your head—some vague vision—and before you know it, you’re cutting, drilling, wiring, tweaking. You mess it up. You fix it. You keep going.
+
+And then suddenly, it works. It slides. It powers on. It fits.
+
+### It’s never perfect—and that’s the point
+DIY isn’t about polished results. It’s about the process. It’s the late-night Googling, the trial and error, the overkill solutions that make no sense on paper but feel just right in real life. It’s about using what you’ve got, learning what you don’t know, and hacking things together until they do what you want.
+
+And yes, sometimes it’s about making things way harder than they need to be—but at least they’re yours.
+
+### Why I keep doing it
+Because I like knowing how things work. Because I like solving problems with tools, code, glue, and sheer stubbornness. And because there’s a unique kind of pride in pointing to something and saying:
+
+“Yeah—I made that.”
+
+That’s the DIY mindset.
+That’s how my hands bring my ideas to life.

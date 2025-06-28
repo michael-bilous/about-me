@@ -1,0 +1,26 @@
+---
+title:      "My Coding Adventure"
+subtitle:   "The Journey from \"Hello World\" to high-availability and high-scale enterprise systems"
+author:     "Michael B."
+avatar:     "img/authors/mbilous.png"
+image:      "img/code.jpg"
+date:       2025-06-28 00:00:07
+---
+
+### From "Hello World" to production
+I still remember the first time I wrote Hello World. It was a small moment—just a few words printed to a screen—but it opened the door to something much bigger. Back then, I was just experimenting. Today, I work on high-availability, high-scale systems that power real-world applications and serve millions. What started with basic logic and syntax has grown into a deep understanding of software architecture, distributed systems, and cloud infrastructure.
+
+### Learning through failure
+The journey wasn’t a straight line. I’ve broken things that were in production. I’ve deployed bugs that took hours (or days) to trace. I’ve learned the hard way about race conditions, deadlocks, memory leaks, and how “it works on my machine” is never enough.
+
+But every failure came with a lesson. Over time, I stopped just writing code—and started designing systems.
+
+### Scaling up
+Today, I think in terms of services, latency, observability, cost-efficiency, and user impact. I’ve worked on systems that scale horizontally, recover gracefully, and stay online when things go wrong. Concepts like load balancing, circuit breakers, and eventual consistency aren’t just buzzwords—they’re part of my daily toolkit.
+
+Writing code is still fun. But building something reliable, fast, and maintainable at scale? That’s the real thrill.
+
+### Still learning
+The more I grow, the more I realize how much more there is to learn. Tech keeps evolving. Tools change. Patterns shift. But the mindset stays the same: stay curious, keep improving, and never stop asking why.
+
+This blog is where I’ll share some of what I’ve learned along the way—from debugging weird bugs to designing resilient systems. If you’re on a similar journey, I hope you find something here that resonates.
